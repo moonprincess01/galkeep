@@ -233,6 +233,90 @@
       ],
       "cover": "https://lain.bgm.tv/pic/cover/l/09/f2/309717_nCNHT.jpg",
       "title": "ひぐらしのなく頃に 鬼隠し編"
+    },
+    {
+      "id": "9206a57f-6cba-4f6a-b69d-76bc29a51376",
+      "vndbId": "v67",
+      "bgmId": "309719",
+      "updateDate": 1745124264.515,
+      "alias": [
+        "寒蝉鸣泣之时 绵流篇",
+        "Higurashi When They Cry - Question Arcs",
+        "Le sanglot des cigales ~cycle des énigmes~",
+        "Higurashi - Quando piangono le cicale - Archi di domanda",
+        "ひぐらしのなく頃に",
+        "Gdy zapłaczą cykady",
+        "Когда плачут цикады",
+        "Khi Ve Sầu Khóc",
+        "寒蝉鸣泣之时 出题篇"
+      ],
+      "description": "《寒蝉鸣泣之时 绵流篇》是《寒蝉鸣泣之时》系列游戏的第二作。\r\n\r\n前原圭一和伙伴们一道参加在兴宫举行的游戏大会。经过一番苦战获胜后，圭一得到了一个可爱的布娃娃奖品。由于圭一觉得布娃娃不适合自己，决定把布娃娃送给礼奈或魅音。最后圭一把布娃娃送给了礼奈作礼物。\r\n\r\n几天以后，圭一和父亲一起到兴宫的“Angel Mort”用餐，意外地发现园崎魅音竟然是那儿的女服务生。女服务生告诉圭一说她不是魅音，而是魅音的孪生妹妹诗音。\r\n\r\n绵流祭当晚圭一和诗音、富竹次郎、鹰野三四进入祭具殿，发现绵流祭的真相其实是……\r\n\r\n和诗音，富竹他们告别后不久，警方通知圭一他是进入祭具殿唯一没有出事的人。随着时间的过去，圭一和诗音的感情也与日俱增，然而此时魅音却开始了与往日不同的怪异表现，直到某天圭一和玲奈前去探望魅音时才逐渐发现事情的真相……",
+      "tags": [
+        "Expansion",
+        "07th-expansion",
+        "Steam3070",
+        "2021",
+        "7",
+        "恐怖",
+        "Windows",
+        "游戏",
+        "GAL",
+        "全年龄",
+        "ADV",
+        "07th_Expansion",
+        "AVG",
+        "07thExpansion",
+        "PC",
+        "同人",
+        "2002",
+        "龙骑士07",
+        "猎奇",
+        "推理",
+        "解谜",
+        "悬疑",
+        "竜騎士07",
+        "寒蝉鸣泣之时",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 50,
+      "lastPlay": 0,
+      "createDate": 1745124264515,
+      "releaseDate": 1041206400000,
+      "rating": 8.2,
+      "developer": "07th Expansion",
+      "images": [
+        "https://t.vndb.org/sf/14/814.jpg",
+        "https://t.vndb.org/sf/15/815.jpg",
+        "https://t.vndb.org/sf/18/9518.jpg",
+        "https://t.vndb.org/sf/19/9519.jpg",
+        "https://t.vndb.org/sf/83/11383.jpg",
+        "https://t.vndb.org/sf/87/11387.jpg",
+        "https://t.vndb.org/sf/20/155220.jpg",
+        "https://t.vndb.org/sf/22/155222.jpg",
+        "https://t.vndb.org/sf/23/155223.jpg",
+        "https://t.vndb.org/sf/24/155224.jpg"
+      ],
+      "links": [
+        {
+          "name": "enwiki",
+          "url": "https://en.wikipedia.org/wiki/Higurashi_When_They_Cry"
+        },
+        {
+          "url": "https://ja.wikipedia.org/wiki/ひぐらしのなく頃に",
+          "name": "jawiki"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q737271",
+          "name": "wikidata"
+        },
+        {
+          "name": "pcgamingwiki",
+          "url": "https://www.pcgamingwiki.com/wiki/Higurashi_When_They_Cry_Hou_-_Rei"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/92/10/309719_KwU9y.jpg",
+      "title": "ひぐらしのなく頃に 綿流し編"
     }
   ]
 }
