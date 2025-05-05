@@ -317,6 +317,96 @@
       ],
       "cover": "https://lain.bgm.tv/pic/cover/l/92/10/309719_KwU9y.jpg",
       "title": "ひぐらしのなく頃に 綿流し編"
+    },
+    {
+      "id": "f5b0466b-d562-49a8-8b00-5bb148972abc",
+      "vndbId": "v67",
+      "bgmId": "309720",
+      "updateDate": 1746437122.02,
+      "alias": [
+        "寒蝉鸣泣之时 祟杀篇",
+        "Higurashi When They Cry - Question Arcs",
+        "Le sanglot des cigales ~cycle des énigmes~",
+        "Higurashi - Quando piangono le cicale - Archi di domanda",
+        "ひぐらしのなく頃に",
+        "Gdy zapłaczą cykady",
+        "Когда плачут цикады",
+        "Khi Ve Sầu Khóc",
+        "寒蝉鸣泣之时 出题篇"
+      ],
+      "description": "《寒蝉鸣泣之时 祟杀篇》是由07th Expansion制作的《寒蝉鸣泣之时》系列游戏的第三作。\r\n\r\n时间是1983年（昭和58年）。圭一得知各种有关社团成员北条沙都子于逆境中坚强生活，以及她遭受回到村子的叔父铁平虐待之事。沙都子的双亲3年前在旅行中死于事故，村民们谣传沙都子双亲的死是“御社神大人的作祟”。此外对于沙都子来说最大的庇护人，她的哥哥北条悟史在1年前失踪。沙都子把叔父的虐待当作是对自己的考验，一直默默忍受。而把一切看在眼里的圭一则制定了一个拯救沙都子的计划……",
+      "tags": [
+        "07th-expansion",
+        "2023",
+        "Steam3070",
+        "8+",
+        "全成就达成",
+        "STEAM",
+        "游戏",
+        "07th_Expansion",
+        "Windows",
+        "GAL",
+        "全年龄",
+        "ADV",
+        "07thExpansion",
+        "同人",
+        "AVG",
+        "悬疑",
+        "PC",
+        "解谜",
+        "2003",
+        "猎奇",
+        "龙骑士07",
+        "推理",
+        "竜騎士07",
+        "寒蝉鸣泣之时",
+        "Galgame"
+      ],
+      "playTimelines": [
+        [
+          1746437140,
+          1746437234,
+          46
+        ]
+      ],
+      "expectedPlayHours": 50,
+      "lastPlay": 1746437234000,
+      "createDate": 1746437122020,
+      "releaseDate": 1061078400000,
+      "rating": 7.8,
+      "developer": "07th Expansion",
+      "images": [
+        "https://t.vndb.org/sf/14/814.jpg",
+        "https://t.vndb.org/sf/15/815.jpg",
+        "https://t.vndb.org/sf/18/9518.jpg",
+        "https://t.vndb.org/sf/19/9519.jpg",
+        "https://t.vndb.org/sf/83/11383.jpg",
+        "https://t.vndb.org/sf/87/11387.jpg",
+        "https://t.vndb.org/sf/20/155220.jpg",
+        "https://t.vndb.org/sf/22/155222.jpg",
+        "https://t.vndb.org/sf/23/155223.jpg",
+        "https://t.vndb.org/sf/24/155224.jpg"
+      ],
+      "links": [
+        {
+          "name": "enwiki",
+          "url": "https://en.wikipedia.org/wiki/Higurashi_When_They_Cry"
+        },
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/ひぐらしのなく頃に"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q737271"
+        },
+        {
+          "name": "pcgamingwiki",
+          "url": "https://www.pcgamingwiki.com/wiki/Higurashi_When_They_Cry_Hou_-_Rei"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/73/f7/309720_Vc4Im.jpg",
+      "title": "ひぐらしのなく頃に 祟殺し編"
     }
   ]
 }
